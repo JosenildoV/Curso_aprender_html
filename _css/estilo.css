@@ -123,3 +123,66 @@ nav#menu a:hover{
     color: white;
     text-decoration: underline;
 }
+
+section#corpo {
+    display: block;
+    width: 550px;
+    float: left;
+    border-right: 1px solid #606060;
+    padding-right: 20px;
+}
+
+table#tabelaspec {
+    border: 1px solid #606060;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table#tabelaspec td {
+    border: 1px solid #606060;
+    padding: 10px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+table#tabelaspec td.ce {
+    color: white;
+    background-color: #606060;
+    text-align: right;
+    vertical-align: top;
+    font-weight: bold;
+}
+
+table#tabelaspec td.cd {
+    background-color: #cecece;
+}
+
+table#tabelaspec caption {
+    color: #888888;
+    font-size: 13pt;
+    font-weight: bolder;
+}
+
+table#tabelaspec caption span {
+    display: block;
+    float: right;
+    color: #000000;
+    font-size: 8pt;
+    margin-top: 10px;
+}
+
+aside#lateral {
+    display: block;
+    width: 300px;
+    float: right;
+}
+
+footer#rodape {
+    clear: both;
+    border-top: 1px solid #606060;
+}
+
+footer#rodape p{
+    text-align: center;
+}
