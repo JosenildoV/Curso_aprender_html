@@ -245,3 +245,18 @@ footer#rodape {
 footer#rodape p{
     text-align: center;
 }
+
+
+video#filme1{
+    display: block;
+    position: relative;
+    width: 550px;
+    
+}
+
+video#filme2{
+    display: block;
+    position: relative;
+    width: 300px;
+    
+}
